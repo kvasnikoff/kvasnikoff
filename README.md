@@ -8,4 +8,4 @@
 - 📱 Proficient in Swift, UIKit, XCTest, and more.
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/petr-kvasnikov/).
 
-Check out my detailed CV 📄 [here](https://github.com/kvasnikoff/kvasnikoff/blob/main/PetrKvasnikovCV.pdf).
+Check out my detailed CV 📄 [here](https://github.com/kvasnikoff/kvasnikoff/blob/main/PetrKvasnikovCV.pdf?raw=true).
